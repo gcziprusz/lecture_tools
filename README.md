@@ -1,6 +1,6 @@
 # 🎬 Lecture Tools: Video and Subtitle Processing Scripts
 
-This repository contains two Python scripts designed to assist educators and content creators in processing lecture materials.
+This repository contains two Python scripts designed to assist students in processing lecture materials.
 
 ---
 
